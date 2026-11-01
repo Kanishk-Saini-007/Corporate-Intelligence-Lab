@@ -2,7 +2,7 @@
 
 A financial statement analysis tool I built as a coursework project. Pick a company, read its ratios, compare it with peers, and stress-test how close it is to financial distress.
 
-**Live:** https://kanishksaini-007.github.io/Corporate-Intelligence-Lab/
+**Live:** https://kanishk-saini-007.github.io/Corporate-Intelligence-Lab/
 
 ## What it does
 
